@@ -1,5 +1,3 @@
-# Week 1
-
 ## Painting with Flow, VISAP'14
 
 ### Context
@@ -56,3 +54,10 @@ I chose this article for its merging of artistic application with state of the a
 produce a
 
 I chose this article both for incorporation of computational flow techniques with
+
+
+#### Reference
+```
+Vehlow, Corinna; Beck, Fabian; Weiskopf, Daniel: Painting with Flow.
+In: Proceedings of the IEEE VIS Arts Program (VISAP’14): pp. 117-126, 2014
+```
